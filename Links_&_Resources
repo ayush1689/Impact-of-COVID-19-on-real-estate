@@ -16,7 +16,9 @@ Data Sets:
 6. https://dj2taa9i652rf.cloudfront.net/
 7. https://github.com/CSSEGISandData/COVID-19
 8. https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
-
+9. https://nhb.org.in/en/#
+10. https://residex.nhbonline.org.in/2017-18/NHB_Residex.aspx
+11. https://www.globalpropertyguide.com/Asia/India/Price-History-Archive/indias-stunning-house-price-boom-continues-127034
 
 
 18-11-2020-----------------------------------------18-11-2020-----------------------------------------18-11-2020-----------------------------------------
@@ -65,3 +67,22 @@ Impact Of Covid on Real estate :
 3.https://content.knightfrank.com/research/2066/documents/en/work-from-home-indian-real-estate-residential-office-7431.pdf
 
 4.https://datascience.foundation/datatalk/post-covid-19-data-science-evolving-in-real-estate-too
+
+
+--------28-Nov-2020 --------28-Nov-2020 --------28-Nov-2020 --------28-Nov-2020 --------28-Nov-2020 --------28-Nov-2020 --------28-Nov-2020 --------28-Nov-2020 -------
+List of Features 
+************************
+Date
+City 
+Locality || pin code
+Square feet
+Flat size
+number of rooms
+Amenities
+Builder name
+reviews of the builder
+New / Resale
+Rating
+property  age
+
+*****************************
