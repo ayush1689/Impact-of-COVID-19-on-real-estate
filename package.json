@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apify": "^0.21.3",
+    "fast-xml-parser": "^3.17.4",
+    "json2csv": "^5.0.1",
+    "puppeteer": "^5.2.1"
+  }
+}
